@@ -1,0 +1,8 @@
+/* styles.css */
+body {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(35, 35, 36);
+  margin: 0px;
+}
+
