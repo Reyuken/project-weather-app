@@ -1,8 +1,18 @@
-/* styles.css */
 body {
-  display: flex;
-  flex-direction: row;
-  background-color: rgb(35, 35, 36);
-  margin: 0px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 2rem;
 }
 
+form {
+  margin-bottom: 1rem;
+}
+
+.hidden {
+  display: none;
+}
+
+#weatherDisplay {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
